@@ -58,3 +58,5 @@ O Jogo Pedra, Papel e Tesoura contra Skynet oferece as seguintes funcionalidades
    - Se decidir sair, o programa encerrará, exibindo uma mensagem de despedida.
 
 Divirta-se jogando Pedra, Papel e Tesoura contra Skynet! 🤖✊✋✌️
+
+Mensagem teste - Deverá ser apagada após documentação completa
